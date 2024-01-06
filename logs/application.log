@@ -1,0 +1,210 @@
+[INFO ] 2024-01-06 11:56:09.127 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 11:56:39.217 BaseTest:59 - super before method
+[INFO ] 2024-01-06 11:56:41.756 BaseTest:55 - login test before method
+[INFO ] 2024-01-06 11:56:45.977 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 11:56:48.099 BaseTest:200 - Password is invalid
+[INFO ] 2024-01-06 11:56:52.259 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 11:56:55.552 BaseTest:213 - Error msg =  Username and password do not match any user in this service.
+[INFO ] 2024-01-06 11:56:55.554 BaseTest:90 - invaid user name
+[INFO ] 2024-01-06 11:56:55.568 BaseTest:62 - login test after method
+[INFO ] 2024-01-06 11:56:57.899 BaseTest:65 - super after method
+[INFO ] 2024-01-06 11:57:01.772 BaseTest:59 - super before method
+[INFO ] 2024-01-06 11:57:03.100 BaseTest:55 - login test before method
+[INFO ] 2024-01-06 11:57:06.562 BaseTest:200 - Login with ankitUser
+[INFO ] 2024-01-06 11:57:08.535 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 11:57:09.362 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 11:57:10.998 BaseTest:213 - Error msg =  Username and password do not match any user in this service.
+[INFO ] 2024-01-06 11:57:10.999 BaseTest:76 - invaid user name
+[INFO ] 2024-01-06 11:57:12.700 BaseTest:62 - login test after method
+[INFO ] 2024-01-06 11:57:14.308 BaseTest:65 - super after method
+[INFO ] 2024-01-06 11:57:16.049 BaseTest:59 - super before method
+[INFO ] 2024-01-06 11:57:17.059 BaseTest:55 - login test before method
+[INFO ] 2024-01-06 11:57:19.729 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 11:57:21.926 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 11:57:22.755 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 11:57:24.671 BaseTest:213 - Product Page Title is =  PRODUCTS
+[INFO ] 2024-01-06 11:57:24.672 BaseTest:104 - valid login
+[INFO ] 2024-01-06 11:57:24.678 BaseTest:62 - login test after method
+[INFO ] 2024-01-06 11:57:26.264 BaseTest:65 - super after method
+[INFO ] 2024-01-06 11:57:27.954 BaseTest:59 - super before method
+[INFO ] 2024-01-06 11:57:29.214 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 11:57:30.888 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 11:57:32.415 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 11:57:33.217 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 11:57:34.876 BaseTest:188 - Navigate to the product details page
+[INFO ] 2024-01-06 11:57:36.692 BaseTest:213 - Product title on description page =  Sauce Labs Backpack
+[INFO ] 2024-01-06 11:57:37.283 BaseTest:213 - Product description on description page =  carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2024-01-06 11:57:44.164 BaseTest:65 - super after method
+[INFO ] 2024-01-06 11:57:46.544 BaseTest:59 - super before method
+[INFO ] 2024-01-06 11:57:47.675 BaseTest:62 - 
+**** Starting test:validateProductsOnProductPageTest
+[INFO ] 2024-01-06 11:57:49.361 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 11:57:51.087 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 11:57:52.377 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 11:57:54.458 BaseTest:213 - product title =  Sauce Labs Backpack
+[INFO ] 2024-01-06 11:57:55.171 BaseTest:213 - product price =  $29.99
+[INFO ] 2024-01-06 11:57:56.325 BaseTest:65 - super after method
+[INFO ] 2024-01-06 11:58:00.072 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 12:05:29.948 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:05:44.456 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:05:47.200 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:05:48.381 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 12:08:46.314 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:08:57.071 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:08:59.372 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:09:00.862 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 12:11:46.558 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:11:57.094 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:11:57.848 BaseTest:55 - login test before method
+[INFO ] 2024-01-06 12:12:01.317 BaseTest:200 - Login with ankitUser
+[INFO ] 2024-01-06 12:12:03.335 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 12:12:04.866 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 12:12:06.643 BaseTest:213 - Error msg =  Username and password do not match any user in this service.
+[INFO ] 2024-01-06 12:12:06.645 BaseTest:76 - invaid user name
+[INFO ] 2024-01-06 12:12:07.687 BaseTest:62 - login test after method
+[INFO ] 2024-01-06 12:12:08.885 BaseTest:65 - super after method
+[INFO ] 2024-01-06 12:12:12.183 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 12:15:23.007 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:15:33.698 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:15:34.463 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:15:35.625 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:15:36.655 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 12:17:10.722 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:17:21.526 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:17:22.360 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:17:23.547 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:17:24.564 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 12:34:46.179 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:34:51.799 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:34:52.447 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:34:52.861 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:34:53.510 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 12:35:45.132 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:35:52.266 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:35:54.608 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:35:55.010 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:37:02.394 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:37:09.193 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:37:20.004 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:37:20.576 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:37:21.212 BaseTest:202 - Login with standard_user
+[INFO ] 2024-01-06 12:38:55.062 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:39:01.452 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:39:02.022 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:39:02.420 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:39:03.098 BaseTest:202 - Login with standard_user
+[INFO ] 2024-01-06 12:40:03.492 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:40:11.094 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:40:11.687 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:40:12.052 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:40:12.734 BaseTest:202 - Login with standard_user
+[INFO ] 2024-01-06 12:43:11.405 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:43:18.063 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:43:18.631 BaseTest:55 - login test before method
+[INFO ] 2024-01-06 12:43:19.751 BaseTest:202 - Login with ankitUser
+[INFO ] 2024-01-06 12:43:21.418 BaseTest:202 - Password is secret_sauce
+[INFO ] 2024-01-06 12:43:22.606 BaseTest:189 - press login Button
+[INFO ] 2024-01-06 12:43:23.638 BaseTest:217 - Error msg =  Username and password do not match any user in this service.
+[INFO ] 2024-01-06 12:43:23.639 BaseTest:76 - invaid user name
+[INFO ] 2024-01-06 12:43:24.110 BaseTest:62 - login test after method
+[INFO ] 2024-01-06 12:43:24.599 BaseTest:65 - super after method
+[INFO ] 2024-01-06 12:43:26.156 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 12:45:40.286 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:45:45.882 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:45:46.407 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:45:46.787 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:45:47.548 BaseTest:65 - super after method
+[INFO ] 2024-01-06 12:45:49.122 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 12:47:18.640 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 12:47:24.152 BaseTest:59 - super before method
+[INFO ] 2024-01-06 12:47:24.757 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 12:47:25.353 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 12:47:26.108 BaseTest:202 - Login with standard_user
+[INFO ] 2024-01-06 12:47:27.296 BaseTest:202 - Password is secret_sauce
+[INFO ] 2024-01-06 12:47:27.975 BaseTest:189 - press login Button
+[INFO ] 2024-01-06 12:47:29.202 BaseTest:189 - Navigate to the product details page
+[INFO ] 2024-01-06 12:47:30.410 BaseTest:217 - Product title on description page =  Sauce Labs Backpack
+[INFO ] 2024-01-06 12:47:30.534 BaseTest:217 - Product description on description page =  carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2024-01-06 12:47:35.132 BaseTest:65 - super after method
+[INFO ] 2024-01-06 12:47:37.301 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 13:01:18.288 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 13:01:24.082 BaseTest:59 - super before method
+[INFO ] 2024-01-06 13:01:24.742 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 13:01:25.268 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 13:01:26.121 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 13:01:27.295 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 13:01:28.152 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 13:01:29.477 BaseTest:188 - Navigate to the product details page
+[INFO ] 2024-01-06 13:01:30.666 BaseTest:213 - Product title on description page =  Sauce Labs Backpack
+[INFO ] 2024-01-06 13:01:30.778 BaseTest:213 - Product description on description page =  carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2024-01-06 13:01:35.416 BaseTest:65 - super after method
+[INFO ] 2024-01-06 13:01:37.759 BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 13:02:10.245 ankit.qa.BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 13:02:17.023 ankit.qa.BaseTest:59 - super before method
+[INFO ] 2024-01-06 13:02:17.613 ankit.qa.BaseTest:60 - product test before method
+[INFO ] 2024-01-06 13:02:18.243 ankit.qa.BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 13:02:19.053 ankit.qa.BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 13:02:20.704 ankit.qa.BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 13:02:21.378 ankit.qa.BaseTest:188 - press login Button
+[INFO ] 2024-01-06 13:02:22.649 ankit.qa.BaseTest:188 - Navigate to the product details page
+[INFO ] 2024-01-06 13:02:23.851 ankit.qa.BaseTest:213 - Product title on description page =  Sauce Labs Backpack
+[INFO ] 2024-01-06 13:02:23.964 ankit.qa.BaseTest:213 - Product description on description page =  carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2024-01-06 13:02:28.717 ankit.qa.BaseTest:65 - super after method
+[INFO ] 2024-01-06 13:02:30.693 ankit.qa.BaseTest:147 - Appium server stoped
+[INFO ] 2024-01-06 19:01:47.170 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:02:39.613 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:02:41.774 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:02:43.472 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:02:45.588 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:03:43.454 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:04:14.176 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:04:15.699 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:04:17.380 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:04:21.343 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:10:57.502 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:11:30.948 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:11:31.857 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:11:33.551 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:11:34.952 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:13:53.940 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:14:17.485 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:14:18.653 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:14:19.476 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:14:24.139 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:16:23.147 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:16:43.179 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:16:44.456 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:16:45.230 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:16:49.228 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:27:12.590 BaseTest:141 - Appium server started
+[INFO ] 2024-01-06 19:27:33.840 BaseTest:59 - super before method
+[INFO ] 2024-01-06 19:27:35.082 BaseTest:60 - product test before method
+[INFO ] 2024-01-06 19:27:35.919 BaseTest:62 - 
+**** Starting test:validateProductsOnProductDetailsPageTest
+[INFO ] 2024-01-06 19:27:40.535 BaseTest:200 - Login with standard_user
+[INFO ] 2024-01-06 19:27:42.933 BaseTest:200 - Password is secret_sauce
+[INFO ] 2024-01-06 19:27:45.857 BaseTest:188 - press login Button
+[INFO ] 2024-01-06 19:27:52.294 BaseTest:188 - Navigate to the product details page
+[INFO ] 2024-01-06 19:27:54.228 BaseTest:213 - Product title on description page =  Sauce Labs Backpack
+[INFO ] 2024-01-06 19:27:54.880 BaseTest:213 - Product description on description page =  carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[INFO ] 2024-01-06 19:28:02.506 BaseTest:65 - super after method
+[INFO ] 2024-01-06 19:28:06.019 BaseTest:147 - Appium server stoped

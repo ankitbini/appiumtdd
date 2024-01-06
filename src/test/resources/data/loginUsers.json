@@ -1,0 +1,14 @@
+{
+	"invalidUser":{
+		"userName":"ankitUser",
+		"password":"secret_sauce"
+	},
+	"invalidPassword":{
+		"userName":"standard_user",
+		"password":"invalid"
+	},
+	"validUser":{
+		"userName":"standard_user",
+		"password":"secret_sauce"
+	}
+}
